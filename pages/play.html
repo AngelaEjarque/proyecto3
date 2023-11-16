@@ -7,6 +7,16 @@
     <title>Mastermind PLAY</title>
 </head>
 <body>
-    
+    <div class="container-nicknamepage">
+        <form class="nicknameinput">
+            <span class="text-name">Name:</span><input type="text" minlength="3" maxlength="12" class="input-nick"
+                placeholder="Player 1..." id="nickname">
+        </form>
+        <div class="buttonnickname">
+            <a href="/index.html"><button class="buttongame">Index</button></a>
+            <button class="btn-game" onclick="saveNameAndRedirect()">Continue</button>
+        </div>
+    </div>
+    <script src="/js/nickname.js"></script>
 </body>
 </html>
