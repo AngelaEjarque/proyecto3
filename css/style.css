@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/img/fondo.jpg);
+    background-size: cover;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30em;
+    width: 50em;
+    flex-direction: column;
+}
+.btn-game {
+    font-family: 'Common Pixel', sans-serif;
+    font-size: 45px;
+    background-color: black;
+    color: white;
+}
+
+.btn-game {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+}
