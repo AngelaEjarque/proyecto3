@@ -89,3 +89,38 @@ body {
     justify-content: center;
     flex-direction: row;
 }
+
+/* difficult html */
+
+.containerdif {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 90vh;
+}
+
+.diftext {
+    color: white;
+    margin: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.difcontainer {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5em;
+}
+
+.btn-div-difficulty {
+    margin: 0.5em;
+}
+.difcontainer .buttongame {
+    margin-top: 0.5em;
+}
+
