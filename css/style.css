@@ -116,11 +116,55 @@ body {
     justify-content: center;
     margin: 5em;
 }
-
-.btn-div-difficulty {
-    margin: 0.5em;
-}
 .difcontainer .buttongame {
     margin-top: 0.5em;
 }
+/*color select html*/
+.text-color-pick {
+    display: flex;
+    justify-content: center;
+}
+
+.choose-color-text {
+    color: white;
+    font-family: 'Public Pixel', sans-serif;
+    margin: 70px;
+    font-size: 25px;
+}
+
+.color-sample {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40em;
+}
+
+.choosecol {
+    border: solid 3px white;
+    height: 8em;
+    width: 8em;
+    border-radius: 20%;
+}
+
+.color-pick {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.color-picker {
+    height: 2em;
+    width: 5em;
+}
+
+.color-picker:hover {
+    cursor: pointer;
+}
+
+.container-btn-colorpick {
+    margin: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
 
