@@ -5,19 +5,19 @@ let colorchoose4 = document.getElementById('colorchoose4');
 let arrayChosenColours = [];
 
 document.getElementById('colorPick1').addEventListener('input', () => {
-    colorCopy1.style.backgroundColor = document.getElementById('colorPick1').value;
+    colorchoose1.style.backgroundColor = document.getElementById('colorPick1').value;
 });
 
 document.getElementById('colorPick2').addEventListener('input', () => {
-    colorCopy2.style.backgroundColor = document.getElementById('colorPick2').value;
+    colorchoose2.style.backgroundColor = document.getElementById('colorPick2').value;
 });
 
 document.getElementById('colorPick3').addEventListener('input', () => {
-    colorCopy3.style.backgroundColor = document.getElementById('colorPick3').value;
+    colorchoose3.style.backgroundColor = document.getElementById('colorPick3').value;
 });
 
 document.getElementById('colorPick4').addEventListener('input', () => {
-    colorCopy4.style.backgroundColor = document.getElementById('colorPick4').value;
+    colorchoose4.style.backgroundColor = document.getElementById('colorPick4').value;
 });
 let saveColours = () => {
     let color1 = document.getElementById('colorPick1').value;
