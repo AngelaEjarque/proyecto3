@@ -1,4 +1,4 @@
-/* este css incluye los estilos para index, play, difficult y color select html*/
+/* este css incluye los estilos para index, play, difficult, color select y win html*/
 
 /* responsive */
 @media (max-width: 768px) {
@@ -190,4 +190,19 @@ body {
     justify-content: space-between;
 }
 
+/*win html*/
 
+#winningtext{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+    color:rgb(202, 187, 17);
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    background-color: rgba(35, 66, 189, 0.385);
+    border-radius: 20%;
+    height: 15em;
+    width: 15em;
+    margin-bottom: 2em;
+}
