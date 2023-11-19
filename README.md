@@ -23,7 +23,7 @@ Mastermind
 # Estructura
 <h1>Pantalla de inicio: Mastermind</h1> 
 <p>Podemos acceder a las reglas del juego o jugar directamente depende de qué botón pulsemos.</br>
-    En la pantalla "PLAY" nos solicita un Nombre de jugador</br>![nickname](/img/nickname.jpg)
+    En la pantalla "PLAY" nos solicita un Nombre de jugador</br>![nickname](img/nickname.jpg)
     La siguiente pantalla nos lleva a la selección de color mediante los botones pequeños en los que podemos elegir los colores con los que queremos jugar.</br>
     Si continuamos por el botón play, nos encontramos con el tablero de juego, que tiene la siguiente estructura</br>
     Tras el chequeo de las rondas veremos algo como esto, a la derecha vemos señalado el estado de nuestra combinación con los criterios arriba mencionados</br>
