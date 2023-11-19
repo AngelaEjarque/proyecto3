@@ -1,3 +1,4 @@
+
 # proyecto3
 Mastermind
 # Indice
@@ -22,13 +23,13 @@ Mastermind
 
 # Estructura
 <h1>Pantalla de inicio: Mastermind</h1> 
-<p>Podemos acceder a las reglas del juego o jugar directamente depende de qué botón pulsemos.</br>
-    En la pantalla "PLAY" nos solicita un Nombre de jugador</br>![nickname](img/nickname.jpg)
+Podemos acceder a las reglas del juego o jugar directamente depende de qué botón pulsemos.</br>
+    En la pantalla "PLAY" nos solicita un Nombre de jugador</br> 
+![nickname](https://github.com/AngelaEjarque/proyecto3/assets/147879332/68919438-b738-4674-8345-2f658b4c01cb)
     La siguiente pantalla nos lleva a la selección de color mediante los botones pequeños en los que podemos elegir los colores con los que queremos jugar.</br>
     Si continuamos por el botón play, nos encontramos con el tablero de juego, que tiene la siguiente estructura</br>
     Tras el chequeo de las rondas veremos algo como esto, a la derecha vemos señalado el estado de nuestra combinación con los criterios arriba mencionados</br>
     Si conseguimos adivinar nos lleva a WIN y si se acaban las rondas y no lo adivinamos, nos lleva a LOOSE en los cuales se muestra el nombre inicialmente introducido. Si queremos seguir jugando, desde el botón "play again" nos respeta el nombre introducido y tras seleccionar nuevos colores, se repite el juego con una combinación nueva.
-</p>
 
 # Mejoras pendientes
 -Incluir dos niveles de dificultad más</br>
@@ -37,3 +38,11 @@ Mastermind
 
 # Información de contacto
 >Ángela Ejarque Sánchez --> https://github.com/AngelaEjarque
+
+![win](https://github.com/AngelaEjarque/proyecto3/assets/147879332/60f9c9c7-014c-4936-9db4-0f30a5d08244)
+
+![loose](https://github.com/AngelaEjarque/proyecto3/assets/147879332/a6247065-760d-4382-994d-a423899c61f4)
+![fondo](https://github.com/AngelaEjarque/proyecto3/assets/147879332/0945dada-b674-435d-8a4c-6a997f34cf1a)
+![choose](https://github.com/AngelaEjarque/proyecto3/assets/147879332/f54efa1b-b64d-4dcb-9d11-1f49e2c08d19)
+![check](https://github.com/AngelaEjarque/proyecto3/assets/147879332/e919d787-d3c2-4224-9fe8-163c79804edb)
+![board](https://github.com/AngelaEjarque/proyecto3/assets/147879332/d6f83086-3c6c-4a71-a9a7-266a6bb222f9)
